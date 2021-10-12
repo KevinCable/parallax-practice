@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.jumbotron{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  margin-bottom: 0px;
+}
+.jumbo1{
+    background-image: url(https://wallpaperbat.com/img/445463-clouds-mountains-hd-desktop-background-webjazba-science.jpg);
+}
+.jumbo2{
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2020/09/02/sunset-above-the-clouds-wallpaper.jpg);
+}
+.jumbo3{
+    background-image: url();
+}
